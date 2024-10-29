@@ -7,7 +7,6 @@ import Favorites from '.pages/Favorites';
 import Products from '.pages/Products';
 
 
-
 const Drawer = createBottomTabNavigator();
 
 function App() {
